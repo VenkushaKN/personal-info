@@ -1,0 +1,14 @@
+Test Case 1
+Food: Pizza
+Color: Blue
+
+Test Case 2
+Food: Biryani
+Color: Black
+
+Test Case 3
+Food: (empty)
+Color: (empty)
+
+Expected Result:
+Program asks user to enter again.
